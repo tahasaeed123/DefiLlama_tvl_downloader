@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "defillama_tvl_downloader"
+version = "1.0.0"
+description = "An easy way to get data out of DefiLlama. See what the top protocols are and how thier TVL is distributed across chains, and See how TVL for a protocol has changed over time with easy to use funtions."
+authors = ["Taha Saeed"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
