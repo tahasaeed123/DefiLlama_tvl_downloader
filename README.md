@@ -10,7 +10,7 @@ $ pip install defillama_tvl_downloader
 
 ## Usage
 
-- funtion & code can be cound [here](https://github.com/tahasaeed123/DefiLlama_tvl_downloader/blob/main/src/defillama_tvl_downloader/defillama_tvl_downloader.py). 
+- Funtions & code can be cound [here](https://github.com/tahasaeed123/DefiLlama_tvl_downloader/blob/main/src/defillama_tvl_downloader/defillama_tvl_downloader.py). 
 
 ## Contributing
 
